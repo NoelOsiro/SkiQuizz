@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  /* Created with https://www.css-gradient.com */
+  background: #1178c3;
+  background: -webkit-radial-gradient(top left, #1178c3, #49bde3);
+  background: -moz-radial-gradient(top left, #1178c3, #49bde3);
+  background: radial-gradient(to bottom right, #1178c3, #49bde3);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+}
